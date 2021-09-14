@@ -1,0 +1,27 @@
+body{
+    background-image:url("https://concepto.de/wp-content/uploads/2018/04/celula-e1523472422656.jpg")
+}
+
+h1 {
+    color:white;
+    text-align: center;
+    font-size:70px;
+}
+
+h3{
+    color:white;
+    font-size:50px
+
+}
+
+.p1{
+    font-family: 'Merriweather', serif;
+    font-size: 35px;
+  }
+  
+li{
+    font-size:25px;
+}
+.mask{
+    background-color: 0,0,0,0,5;
+}
