@@ -1,0 +1,42 @@
+body{
+    background-color: blueviolet;
+}
+
+
+.container{
+    width:80%;
+    margin:0 auto;
+    border:solid 2px;
+    height: 500px;
+    display: flex;
+    /* espacion entre elementos */
+    justify-content: space-around;
+    /* hace que los elementos de bajen cuando no hay espacion */
+    flex-wrap: wrap;
+    align-items: center;
+}
+
+.caja{
+    width:200px;
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.caja1{
+    border: 2px solid black;
+}
+
+.caja2{
+    border:2px solid white;
+    
+}
+
+.caja3{
+    border:solid green;
+}
+
+.caja4{
+    border:solid blue;
+}
